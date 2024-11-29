@@ -22,7 +22,7 @@ Soy un apasionado del desarrollo web y siempre estoy buscando nuevas tecnología
 
 Si quieres saber más sobre mí o colaborar en algún proyecto, puedes contactarme a través de:
 
-- **Email**: [tu-email@dominio.com](mailto:antoinelpez@gmail.com)
+- **Email**: antoinelpez@gmail.com(mailto:antoinelpez@gmail.com)
 
 ---
 
