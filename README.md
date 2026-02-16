@@ -41,7 +41,7 @@ Soy un desarrollador en formación con un enfoque multidisciplinar. Mi experienc
 
 ### 📫 Contacto
 
-* 📧 **Email:** [Tu correo aquí]
+* 📧 **Email:** antoinelpez@gmail.com
 * 💼 **GitHub:** [Antukiller](https://github.com/Antukiller)
 
 ---
