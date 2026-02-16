@@ -1,29 +1,48 @@
-# 💻 Bienvenidos a mi GitHub
+# 💻 ¡Hola! Soy Antoine 👋
 
-¡Hola! Soy Antoine, estudiante de Desarrollo de Aplicaciones Web. Actualmente, estoy aprendiendo y creando con **Kotlin**, **HTML**, **CSS**, y **Git**. Aquí encontrarás una colección de mis trabajos, ejercicios y experimentos en programación.
-
-## 🌟 Sobre Mí
-
-Soy un apasionado del desarrollo web y siempre estoy buscando nuevas tecnologías y herramientas para mejorar mis habilidades. Mi objetivo es convertirme en un desarrollador full-stack, y estoy en camino de lograrlo a través de la práctica constante y la dedicación.
-
-## 📚 Tecnologías que Estoy Aprendiendo
-
-- **Kotlin**: Explorando el desarrollo de aplicaciones con Kotlin, desde proyectos básicos hasta aplicaciones más complejas.
-- **HTML & CSS**: Construyendo y diseñando páginas web, enfocándome en crear interfaces de usuario atractivas y responsivas.
-- **Git**: Versionando mis proyectos y colaborando de manera eficiente utilizando Git y GitHub.
-
-## 🎯 Mis Objetivos
-
-- **Mejorar mi dominio de Kotlin** y su ecosistema para desarrollar aplicaciones eficientes y mantenibles.
-- **Perfeccionar mis habilidades en HTML y CSS** para crear sitios web visualmente atractivos y accesibles.
-- **Utilizar Git y GitHub** para gestionar mis proyectos y colaborar con otros desarrolladores.
-
-## 📫 Contacto
-
-Si quieres saber más sobre mí o colaborar en algún proyecto, puedes contactarme a través de:
-
-- [Correo Electronico](mailto:antoinelpez@gmail.com)
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)**. Cuento con una base sólida en programación lógica y móvil con **Kotlin**, y actualmente estoy expandiendo mi stack tecnológico especializándome en **C#** y la gestión de datos moderna.
 
 ---
 
-¡Gracias por visitar mi GitHub! Espero que disfrutes explorando mis proyectos tanto como yo disfruto creándolos. 😊
+### 🚀 Sobre Mí
+
+Soy un desarrollador en formación con un enfoque multidisciplinar. Mi experiencia abarca desde el desarrollo de lógica pura hasta la gestión de infraestructuras y bases de datos, tanto relacionales como no relacionales, buscando siempre escribir código limpio y eficiente.
+
+---
+
+### 🛠️ Tecnologías y Conocimientos
+
+| Categoría | Tecnologías / Materias |
+| :--- | :--- |
+| **Lenguajes** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Bases de Datos** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **Web & Marcas** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Software Core** | **Entornos de Desarrollo** (Git/GitHub) & **Sistemas Informáticos** |
+
+---
+
+### 📚 Áreas de Especialización
+
+* **Desarrollo Multiplataforma:** Dominio de la sintaxis y lógica tanto en **Kotlin** como en **C#**.
+* **Gestión de Datos Híbrida:** Experiencia trabajando con esquemas relacionales (SQL) y bases de datos documentales (**MongoDB**).
+* **Maquetación Web:** Creación de interfaces estructuradas con lenguajes de marcas y estilos CSS.
+* **Metodologías:** Uso profesional de Git para el control de versiones y entornos de desarrollo.
+
+---
+
+### 🎯 Mis Objetivos
+
+- [x] Dominar la Programación Orientada a Objetos (POO).
+- [ ] Desarrollar aplicaciones robustas con el ecosistema de **C# y .NET**.
+- [ ] Profundizar en el stack **MERN/MEAN** utilizando MongoDB.
+- [ ] Implementar proyectos integrales que unan Frontend, Backend y Bases de Datos.
+
+---
+
+### 📫 Contacto
+
+* 📧 **Email:** [Tu correo aquí]
+* 💼 **GitHub:** [Antukiller](https://github.com/Antukiller)
+
+---
+*“La persistencia es el camino al éxito. Un commit a la vez.”*
