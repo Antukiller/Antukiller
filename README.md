@@ -2,10 +2,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=212733&reversal=true" />
 </div>
 
-<div align="center">
-  <img src="https://files.oaiusercontent.com/file-KAn8qWdK746qD07Vz61n6DTo?se=2024-10-24T14%3A46%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4588e401-4433-402a-a035-7193d56a2977.webp&sig=6Y89NTo9v2mHog0AAsSOfM8N0087S/v10fGf8/u9p/8%3D" width="250" />
-</div>
-
 <h1 align="center">
   ¡Hola! Soy Antoine Amir López Jauregui
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -34,7 +30,7 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center"><b>Año 2025 - 2026</b></td>
+    <td align="center"><b>Año 2024 - 2026</b></td>
     <td align="center"><b>Objetivos Principales</b></td>
     <td align="center"><b>Estado</b></td>
   </tr>
@@ -49,9 +45,9 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
     <td>🚀 Creciendo</td>
   </tr>
   <tr>
-    <td>🖥️ Frontend</td>
-    <td>Evolucionando hacia el Frontend con JavaScript & Angular.</td>
-    <td>🧠 Aprendiendo</td>
+    <td>🎨 Frontend</td>
+    <td>Aprender JavaScript avanzado y especializarme en Angular.</td>
+    <td>🧠 Futuro</td>
   </tr>
 </table>
 </div>
@@ -135,7 +131,7 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 **- Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,mariadb" />
   </a>
 </p>
 
