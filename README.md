@@ -74,8 +74,8 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 <br>
 
 <h3 align="left">🐍 Contribuciones:</h3>
-<p align="center">
-  <img src="https://github.com/Antukiller/Antukiller/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/lucia027/lucia027/output/snake.svg" alt="Snake animation" />
 </p>
 
 <br>
