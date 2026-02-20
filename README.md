@@ -16,19 +16,26 @@
 	
 ## 👤 Sobre Mí
 
-<br>
-
 - 🎓 Actualmente cursando **1º de Desarrollo de Aplicaciones Web (DAW)**.
 - 💻 Mi lenguaje principal es **C#**, explorando todo el ecosistema de **.NET**.
-- 📱 Tengo experiencia previa/conocimientos en **Kotlin** para aplicaciones nativas.
-- 🏗️ Mi objetivo es convertirme en Desarrollador **Full Stack**, empezando por bases sólidas en Backend.
+- 📱 Tengo conocimientos en **Kotlin** para aplicaciones nativas.
+- 🏗️ Mi objetivo es convertirme en Desarrollador **Full Stack**.
 - 🚀 Siempre buscando retos para mejorar mi lógica de programación.
+
+<br>
+
+## 🏆 Mis Logros (GitHub Trophies)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=4" alt="Antukiller Trophies" />
+  </a>
+</p>
 
 <br>
 
 ## 🛠️ Mis Skills
 
-### 💻 Lenguajes & Backend
+### 💻 Backend & Mobile
 <p align="center"> 
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   &emsp;
@@ -39,27 +46,22 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white">
 </p>
 
-### 🎨 Frontend (Básico)
+### 🎨 Frontend & Tools
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   &emsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-</p>
-
-### ⚙️ Herramientas e IDEs
-<p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  &emsp;
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white">
   &emsp;
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  &emsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
 </p>
 
 <br>
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Antukiller&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="195px"/>
@@ -72,7 +74,7 @@
 
 ---
 
-## 🐍 Mi "Snake" de Contribuciones
+## 🐍 Contribuciones (Snake)
 	
 <p align="center">
 	<img src="https://github.com/Antukiller/Antukiller/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
@@ -80,10 +82,10 @@
 
 <br>
 
-## 🔗 Contacto
+## 🔗 Contacto & Social
 <p align="center">
 	<a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<h6 align="center">Construyendo código paso a paso... 🛠️</h6>
+<h6 align="center">C# Lover & Future Web Developer 💻✨</h6>
