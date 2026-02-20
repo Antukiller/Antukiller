@@ -2,6 +2,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=212733&reversal=true" />
 </div>
 
+<div align="center">
+  <img src="https://files.oaiusercontent.com/file-KAn8qWdK746qD07Vz61n6DTo?se=2024-10-24T14%3A46%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4588e401-4433-402a-a035-7193d56a2977.webp&sig=6Y89NTo9v2mHog0AAsSOfM8N0087S/v10fGf8/u9p/8%3D" width="250" />
+</div>
+
 <h1 align="center">
   ¡Hola! Soy Antoine Amir López Jauregui
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -24,6 +28,8 @@
 <p align="center">
 Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo y la arquitectura de software. 🚀
 </p>
+
+<br>
 
 <div align="center">
 <table align="center">
@@ -57,8 +63,6 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <br>
 
-<br>
-
 <table width="100%" border="0">
   <tr>
     <td width="60%" valign="top">
@@ -84,15 +88,13 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <br>
 
-<br>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
 </div>
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
 - 🔭 **Actualidad:** Cursando Desarrollo de Aplicaciones Web (DAW).
 - 🌱 **Aprendizaje:** Profundizando en C#, SQL y Patrones de Diseño.
