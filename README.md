@@ -2,10 +2,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=212733&reversal=true" />
 </div>
 
-<h3 align="center">
+<h1 align="center">
   ¡Hola! Soy Antoine Amir López Jauregui
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -19,7 +19,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 
-<h3 align="center">Estudiante de 1º de DAW | C# & .NET Developer</h3>
+<h2 align="center">Estudiante de 1º de DAW | C# & .NET Developer</h2>
 
 <p align="center">
 Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo y la arquitectura de software. 🚀
