@@ -2,21 +2,31 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=212733&reversal=true" />
 </div>
 
+<h3 align="center">
+  ¡Hola! Soy Antoine Amir López Jauregui
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=C%23%20%26%20.NET%20Developer;Estudiante%20de%201%C2%BA%20DAW;Apasionado%20por%20la%20arquitectura;Siempre%20aprendiendo%20algo%20nuevo;%C2%A1Echa%20un%20vistazo%20a%20mis%20repos!%20%F0%9F%91%80&font=Fira%20Code&center=true&width=440&height=45&color=40c4ff">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Antukiller.Antukiller&left_color=212733&right_color=40c4ff" alt="Visitor Badge">
+</p>
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 
-<h1 align="center">¡Hola! 👋, Soy Antoine Amir López Jauregui</h1>
 <h3 align="center">Estudiante de 1º de DAW | C# & .NET Developer</h3>
 
 <p align="center">
 Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo y la arquitectura de software. 🚀
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Antukiller&label=Profile%20views&color=40c4ff&style=flat-square" alt="Antukiller views" /> 
-</p>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,visualstudio,vscode" />
 </div>
 
 <br>
@@ -62,14 +72,14 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 **- Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb," />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,mariadb" />
   </a>
 </p>
 
 **- Tools & IDEs**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode,visualstudio,postman" />
   </a>
 </p>
 
