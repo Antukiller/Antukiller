@@ -26,7 +26,7 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
 </div>
 
 <br>
@@ -72,14 +72,14 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 **- Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,mariadb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 </p>
 
 **- Tools & IDEs**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode" />
   </a>
 </p>
 
