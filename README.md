@@ -26,6 +26,33 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 </p>
 
 <div align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>Año 2025 - 2026</b></td>
+    <td align="center"><b>Objetivos Principales</b></td>
+    <td align="center"><b>Estado</b></td>
+  </tr>
+  <tr>
+    <td>🎓 1º DAW</td>
+    <td>Dominar los fundamentos de la programación y Bases de Datos.</td>
+    <td>🏃 En proceso</td>
+  </tr>
+  <tr>
+    <td>💻 Backend</td>
+    <td>Especializarme en C# y profundizar en el framework .NET.</td>
+    <td>🚀 Creciendo</td>
+  </tr>
+  <tr>
+    <td>🖥️ Frontend</td>
+    <td>Evolucionando hacia el Frontend con JavaScript & Angular.</td>
+    <td>🧠 Aprendiendo</td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
 </div>
 
@@ -117,7 +144,7 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=moonlight&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+</div>
 
 <br>
 
