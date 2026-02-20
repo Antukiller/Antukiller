@@ -4,11 +4,11 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 
-<h1 align="center">¡Hola! 👋, Soy Antukiller</h1>
+<h1 align="center">¡Hola! 👋, Soy Antoine Amir López Jauregui</h1>
 <h3 align="center">Estudiante de 1º de DAW | C# & .NET Developer</h3>
 
 <p align="center">
-Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo móvil y la arquitectura de software. 🚀
+Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo y la arquitectura de software. 🚀
 </p>
 
 <p align="center"> 
@@ -16,7 +16,7 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
 </div>
 
 <br>
@@ -43,6 +43,40 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+**- Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin" />
+  </a>
+</p>
+
+**- Frontend & Web**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+**- Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb," />
+  </a>
+</p>
+
+**- Tools & IDEs**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,rider,idea,vscode,postman" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+
 <h3 align="left">📈 Gráfico de Actividad:</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antukiller&theme=react-dark&bg_color=212733&color=40c4ff&line=40c4ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -66,10 +100,14 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 
-<h3 align="left">🏆 Trofeos de Desarrollador:</h3>
+<h3 align="left">🏆 Trophy:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=moonlight&no-bg=true&no-frame=true&column=4" />
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="80px">
 </p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=moonlight&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
 
 <br>
 
@@ -79,11 +117,6 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 </p>
 
 <br>
-
-<div align="center">
-    <h3 align="center">Visitas al perfil:</h3>
-    <img src="https://profile-counter.glitch.me/Antukiller/count.svg" alt="Visitor Count" />
-</div>
 
 <br>
 
