@@ -52,6 +52,33 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <br>
 
+<table width="100%" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🕹️ Más allá del código:</h3>
+      <p>
+        Cuando no estoy frente a la pantalla resolviendo bugs o subiendo de nivel en C#, me verás:
+        <ul>
+          <li>🎮 Disfrutando de videojuegos y retos de lógica.</li>
+          <li>🎬 Viendo anime (gran fan de <b>Solo Leveling</b>).</li>
+          <li>🎧 Escuchando música mientras planeo mis proyectos.</li>
+          <li>🚀 Investigando nuevas tecnologías para evolucionar.</li>
+        </ul>
+      </p>
+      <blockquote>
+        <b>Próximo Nivel:</b> Iniciando mi formación en <b>Frontend</b> próximamente con foco en <b>JavaScript</b> y <b>Angular</b>. 🚀
+      </blockquote>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,vscode" />
 </div>
