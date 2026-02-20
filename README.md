@@ -1,91 +1,96 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=212733&reversal=true" />
 </div>
 
-<h1 align="center">¡Hola! Soy Antukiller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+
+<h1 align="center">¡Hola! 👋, Soy Antukiller</h1>
+<h3 align="center">Estudiante de 1º de DAW | C# & .NET Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23239120&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+DAW+1%C2%BA+%F0%9F%8E%93;Especializ%C3%A1ndome+en+C%23+%E2%9A%99%EF%B8%8F;Conocimientos+en+Kotlin+%F0%9F%93%B1;Entusiasta+del+Desarrollo+Backend;Aprendiendo+algo+nuevo+cada+d%C3%ADa"></a>
+Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear soluciones robustas en el backend. Interesado en el desarrollo móvil y la arquitectura de software. 🚀
 </p>
-
-<br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Antukiller&label=Profile%20views&color=239120&style=flat-square" alt="Antukiller" height=25px/> 
+  <img src="https://komarev.com/ghpvc/?username=Antukiller&label=Profile%20views&color=40c4ff&style=flat-square" alt="Antukiller views" /> 
 </p>
-	
-## 👤 Sobre Mí
 
-- 🎓 Actualmente cursando **1º de Desarrollo de Aplicaciones Web (DAW)**.
-- 💻 Mi lenguaje principal es **C#**, explorando todo el ecosistema de **.NET**.
-- 📱 Tengo conocimientos en **Kotlin** para aplicaciones nativas.
-- 🏗️ Mi objetivo es convertirme en Desarrollador **Full Stack**.
-- 🚀 Siempre buscando retos para mejorar mi lógica de programación.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,kotlin,mysql,dotnet,github,visualstudio,vscode" />
+</div>
 
 <br>
 
-## 🏆 Mis Logros (GitHub Trophies)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=4" alt="Antukiller Trophies" />
-  </a>
-</p>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 **Actualidad:** Cursando Desarrollo de Aplicaciones Web (DAW).
+- 🌱 **Aprendizaje:** Profundizando en C#, SQL y Patrones de Diseño.
+- 💬 **Consultas:** Pregúntame sobre C#, Kotlin o lógica de programación.
+- 📫 **Contacto:** [antoinelpez@gmail.com](mailto:antoinelpez@gmail.com)
+- ⚡ **Curiosidad:** El mejor código es el que es fácil de leer y mantener.
 
 <br>
 
-## 🛠️ Mis Skills
-
-### 💻 Backend & Mobile
-<p align="center"> 
-  <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-  &emsp;
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white">
-  &emsp;
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white">
-  &emsp;
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white">
-</p>
-
-### 🎨 Frontend & Tools
-<p align="center"> 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  &emsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  &emsp;
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white">
-  &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="mailto:antoinelpez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/antuu_lopezz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@antukiller7"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Próximamente-24292e?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 
-## 📊 Estadísticas de GitHub
+<h3 align="left">📈 Gráfico de Actividad:</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antukiller&theme=react-dark&bg_color=212733&color=40c4ff&line=40c4ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
 
+<br>
+
+<h3 align="left">📊 Estadísticas de GitHub:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antukiller&show_icons=true&theme=moonlight&border_radius=10" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antukiller&langs_count=8&layout=compact&theme=moonlight&border_radius=10" height="195px" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Antukiller&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+
+<h3 align="left">🏆 Trofeos de Desarrollador:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antukiller&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antukiller&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" height="195px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antukiller&theme=tokyonight" alt="Antukiller Streak" />
-</p>
-
----
-
-## 🐍 Contribuciones (Snake)
-	
-<p align="center">
-	<img src="https://github.com/Antukiller/Antukiller/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Antukiller&theme=moonlight&no-bg=true&no-frame=true&column=4" />
 </p>
 
 <br>
 
-## 🔗 Contacto & Social
+<h3 align="left">🐍 Contribuciones:</h3>
 <p align="center">
-	<a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://github.com/Antukiller/Antukiller/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
-<h6 align="center">C# Lover & Future Web Developer 💻✨</h6>
+<br>
+
+<div align="center">
+    <h3 align="center">Visitas al perfil:</h3>
+    <img src="https://profile-counter.glitch.me/Antukiller/count.svg" alt="Visitor Count" />
+</div>
+
+<br>
+
+<h2 align="center">¡Gracias por llegar hasta aquí! Toma un gato:</h2>
+<div align="center">
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif?raw=true" width="400" />
+</div>
+
+<br>
+<p align="right"><i>Desarrollado con dedicación por <b>Antukiller</b></i> ✨</p>
