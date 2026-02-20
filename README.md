@@ -52,6 +52,13 @@ Actualmente enfocado en dominar <b>C#</b> y el ecosistema <b>.NET</b> para crear
 
 <br>
 
+> [!IMPORTANT]
+> **SYSTEM NOTIFICATION:** *Player Antukiller ha comprendido que en este mundo el conocimiento es poder. "Debo volverme más fuerte"... Leveling up in progress.* ⚡
+
+<br>
+
+<br>
+
 <table width="100%" border="0">
   <tr>
     <td width="60%" valign="top">
